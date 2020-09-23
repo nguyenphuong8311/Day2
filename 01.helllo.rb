@@ -28,3 +28,13 @@ puts a
 print (" nhap gia tri moi cua a")
 a=gets
 puts ("in ra gia tri moi cua a:#{a}")
+
+a=100
+b=200
+if (a>b)
+    puts "#{a}lon hon #{b}"
+else puts "#{a} nho hon #{b}"
+end
+
+
+
