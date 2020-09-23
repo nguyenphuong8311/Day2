@@ -28,3 +28,4 @@ puts a
 print (" nhap gia tri moi cua a")
 a=gets
 puts ("in ra gia tri moi cua a:#{a}")
+# xu ly config
