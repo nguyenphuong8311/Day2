@@ -22,3 +22,9 @@ end
 p=Person.new("ihone")
 p.name="laptop"
 puts p.name
+
+a=10
+puts a
+print (" nhap gia tri moi cua a")
+a=gets
+puts ("in ra gia tri moi cua a:#{a}")
